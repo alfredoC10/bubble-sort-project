@@ -1,6 +1,5 @@
-#Bubble Sort
+# >>> Bubble Sort
 def bubble_sort(the_array)
-
   count = the_array.length - 1
 
   if the_array.all? Numeric
@@ -14,7 +13,6 @@ def bubble_sort(the_array)
 
   else
     return "Incorrect array"
-
   end
 
   print the_array
@@ -23,10 +21,8 @@ end
 example = [3, 8.753, 8.5789, 3.1, 5.3, 19, 21.4, 2]
 bubble_sort(example)
 
-
-#Bubble sort by
+# >>> Bubble sort by
 def bubble_sort_by(str_arr)
-  
   counting = str_arr.length - 1
   iterate = str_arr.length - 2
 
@@ -40,7 +36,6 @@ def bubble_sort_by(str_arr)
           str_arr[j], str_arr[j + 1] = str_arr[j + 1], str_arr[j]
       end 
     end
-
   end
   print str_arr
 end 
@@ -49,3 +44,4 @@ a_case = ["regards!", "regards", "hello", "hey", "salute", "hi"]
 bubble_sort_by(a_case) do |left, right| 
   left.length - right.length
 end
+
