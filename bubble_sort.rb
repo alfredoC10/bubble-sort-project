@@ -3,7 +3,7 @@ def bubble_sort(the_array)
   count = the_array.length - 1
 
   return 'Incorrect array' unless the_array.all? Numeric
-  
+
   count.times do
     (0..count).each do |i|
       if (the_array[i].to_f > the_array[i + 1].to_f) && (i != count)
@@ -27,7 +27,7 @@ def bubble_sort_by(str_arr)
     print 'Wrong array'
 
   else
-    counting.times do 
+    counting.times do
       (0..iterate).each do |j|
         next unless yield(str_arr[j], str_arr[j + 1]).positive?
 
