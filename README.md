@@ -1,6 +1,6 @@
 # bubble-sort-project
 In this project was posible the development of the bubble sort algorithm (to sort an array in ascending order). The assignment is focused on the use of yield and passing a block to a method. All of this is built in Ruby.
-![screenshot]()
+![screenshot](https://github.com/Huemac-Alfredo/bubble-sort-project/blob/feature/screen_shot.PNG)
 
 ## Built With
 
