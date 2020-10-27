@@ -11,7 +11,7 @@ In this project was posible the development of the bubble sort algorithm (to sor
 
 ## Live Demo
 
-[Live Demo Link](https://huemac-alfredo.github.io/HTML-CSS-capstone-project/.)
+[Live Demo Link](https://repl.it/@huemacAlfredo/Bubblesort#main.rb)
 
 ### Prerequisites
 
