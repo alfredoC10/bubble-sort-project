@@ -12,7 +12,7 @@ def bubble_sort(the_array)
     end
   end
 
-  return the_array
+  the_array
 end
 
 example = [3, 8.753, 8.5789, 3.1, 5.3, 19, 21.4, 2]
@@ -35,7 +35,7 @@ def bubble_sort_by(str_arr)
       end
     end
   end
-  return str_arr
+  str_arr
 end
 
 a_case = ['regards!', 'regards', 'hello', 'hey', 'salute', 'hi']
