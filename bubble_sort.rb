@@ -12,11 +12,11 @@ def bubble_sort(the_array)
     end
   end
 
-  print the_array
+  return the_array
 end
 
 example = [3, 8.753, 8.5789, 3.1, 5.3, 19, 21.4, 2]
-bubble_sort(example)
+print bubble_sort(example)
 
 # >>> Bubble sort by
 def bubble_sort_by(str_arr)
@@ -35,10 +35,12 @@ def bubble_sort_by(str_arr)
       end
     end
   end
-  print str_arr
+  return str_arr
 end
 
 a_case = ['regards!', 'regards', 'hello', 'hey', 'salute', 'hi']
-bubble_sort_by(a_case) do |left, right|
+x = bubble_sort_by(a_case) do |left, right|
   left.length - right.length
 end
+
+print "\n#{x}"
