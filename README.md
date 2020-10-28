@@ -25,9 +25,9 @@ In this project was posible the development of the bubble sort algorithm (to sor
 
 👤 **Alfredo Huemac**
 
-- Github: [@githubhandle](https://github.com/Huemac-Alfredo)
-- Twitter: [@twitterhandle](https://twitter.com/AlfredoHuemac)
-- Linkedin: [linkedin](https://www.linkedin.com/in/alfredo-huemac-c%C3%B3rdova-173b481b2/)
+- Github: [@Huemac-Alfredo](https://github.com/Huemac-Alfredo)
+- Twitter: [@AlfredoHuemac](https://twitter.com/AlfredoHuemac)
+- Linkedin: [linkedin](Alfredo Huemac Córdova)
 
 ## 🤝 Contributing
 
